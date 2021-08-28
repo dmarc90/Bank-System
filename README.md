@@ -1,2 +1,2 @@
 # Bank-System
-Um estudo sobre orientação e objetos, encapsulamento, ducktype e polimorfismo
+Um estudo sobre orientação a objetos, encapsulamento, ducktype e polimorfismo
